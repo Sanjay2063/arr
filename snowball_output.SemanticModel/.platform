@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "snowball_output"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "2c1b6597-2446-4bd1-9c44-5322f8136566"
+  }
+}
